@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "vishnu",
+            "database": "${workspaceFolder:CAP_Projects}/01_CAP_SQLight/vishnu.db"
+        }
+    ]
+}

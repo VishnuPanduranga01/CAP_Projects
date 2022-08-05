@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:01_CAP_SQLight}/vishnu.db",
+            "name": "cvv"
+        }
+    ]
+}
